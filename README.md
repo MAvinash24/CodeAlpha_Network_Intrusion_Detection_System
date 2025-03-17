@@ -19,12 +19,14 @@ Ensure the following dependencies are installed:
 
 Additionally, install **Snort** or **Suricata**:
 - [Snort Installation Guide](https://www.snort.org/downloads)
-- [Suricata Installation Guide](https://suricata.io/get-started/)
+- [Suricata Installation Guide](https://suricata.io/download/)
 
 ## 🚀 Installation & Usage
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/MAvinash24/CodeAlpha_Network_Intrusion_Detection_System.git
+```
+```bash
 cd CodeAlpha_Network_Intrusion_Detection_System
 ```
 
